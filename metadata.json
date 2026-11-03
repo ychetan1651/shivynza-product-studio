@@ -1,0 +1,6 @@
+{
+  "name": "Shivynza Product Studio",
+  "description": "Internal studio tool to turn raw jewelry photos (including .DNG camera raw) into 4 polished e-commerce product images at 4K resolution using Gemini image models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
